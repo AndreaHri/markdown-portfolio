@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Team Photo of people smiling](https://pbs.twimg.com/media/FU4cd_RXEAEl3U8?format=jpg&name=large)
